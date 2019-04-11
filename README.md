@@ -1,7 +1,7 @@
 # ardour
 오픈소스 사운드 편집툴 https://ardour.org 에 관련된 정보를 표기하는 리포지터리입니다.
 
-### Convert audio file using ffmpeng
+### Convert audio file using ffmpeg
 
 #### wav to mp3
 ```
