@@ -15,4 +15,4 @@ $ ffmpeg -i web_bgm.wav -c:a libvorbis -qscale:a 3 web_bgm.ogg
 
 ### 음원 Market
 - https://www.premiumbeat.com / 비상업용 6만원선, 상업용 20만원선
-- https://www.epidemicsound.com / 월$14
+- https://www.epidemicsound.com / 월$15
